@@ -1,0 +1,11 @@
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[alberto.marino@prog3.com; samuele.perrotta@prog3.com]| ID=3| subject='esame prog3'| text='ricordatevi che venerdì abbiamo l'esame'| date=2023-02-22T19:20:55.676874200}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[alberto.marino@prog3.com]| ID=9| subject='Re: Calcolabilità e complessità'| text='Bene grazie, 30 e lode!!!'| date=2023-02-22T19:26:13.565109900}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[alberto.marino@prog3.com]| ID=11| subject='Re: errore server'| text='si è tornato online'| date=2023-02-22T19:30:19.862624700}
+Email{sender='samuele.perrotta@prog3.com'| receiver=receiver=[anita.scanu@prog3.com; samuele.perrotta@prog3.com; alberto.marino@prog3.com]| ID=12| subject='esameee'| text='siete pronti per l'esame??'| date=2023-02-22T19:31:20.342919800}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[alberto.marino@prog3.com]| ID=16| subject='Re: nuovo lavoro'| text='grandeeee'| date=2023-02-22T19:35:53.460646900}
+Email{sender='MailSystem@prog3.com'| receiver=receiver=[alberto.marino@prog3.com]| ID=19| subject='Delivery Status Notification (Failure)'| text='The response was 550 5.1.1 The email account that you tried to reach (pippo@prog3.com) does not exist.'| date=2023-02-22T19:39:00.148399500}
+Email{sender='MailSystem@prog3.com'| receiver=receiver=[alberto.marino@prog3.com]| ID=24| subject='Delivery Status Notification (Failure)'| text='The response was 550 5.1.1 The email account that you tried to reach (rgrer@uty.ty) does not exist.'| date=2023-02-23T19:59:18.174137}
+Email{sender='samuele.perrotta@prog3.com'| receiver=receiver=[alberto.marino@prog3.com]| ID=26| subject='Re: ciao'| text='a te!!!'| date=2023-02-23T19:59:56.560572400}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com; alberto.marino@prog3.com]| ID=27| subject='prova a due'| text='provaaaaaaaaaaaaa, si'| date=2023-02-23T20:00:58.982295900}
+Email{sender='samuele.perrotta@prog3.com'| receiver=receiver=[alberto.marino@prog3.com; anita.scanu@prog3.com]| ID=29| subject='Re: discussione'| text='siii'| date=2023-02-24T10:38:47.629408300}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[alberto.marino@prog3.com]| ID=30| subject='asdsa'| text='Forwarded message: asdasd'| date=2023-02-24T10:39:07.450258500}

@@ -1,0 +1,10 @@
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[alberto.marino@prog3.com; samuele.perrotta@prog3.com]| ID=3| subject='esame prog3'| text='ricordatevi che venerdì abbiamo l'esame'| date=2023-02-22T19:20:55.676874200}
+Email{sender='samuele.perrotta@prog3.com'| receiver=receiver=[anita.scanu@prog3.com; samuele.perrotta@prog3.com; alberto.marino@prog3.com]| ID=12| subject='esameee'| text='siete pronti per l'esame??'| date=2023-02-22T19:31:20.342919800}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com]| ID=13| subject='Re: esameee'| text='si ma ho pauraaaa'| date=2023-02-22T19:32:26.079971700}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com]| ID=15| subject='nuovo lavoro'| text='Forwarded message: Ciao, ti volevo informare che ho appena iniziato un nuovo lavoro e sono molto emozionato per le opportunità che mi si presentano. Ti terrò aggiornato sui prossimi sviluppi'| date=2023-02-22T19:35:27.812802600}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com]| ID=17| subject='Buon natale'| text='BUON NATALE SAMUUU'| date=2023-02-22T19:36:33.403491500}
+Email{sender='alberto.marino@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com; anita.scanu@prog3.com]| ID=19| subject='Appunti di reti'| text='Vi allego gli appunti che ho preso ieri alla lezione di reti'| date=2023-02-22T19:39:00.140404300}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com]| ID=22| subject='asdsa'| text='Forwarded message: asdasd'| date=2023-02-23T16:20:27.470561300}
+Email{sender='alberto.marino@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com]| ID=25| subject='ciao'| text='rgrrgrgrg'| date=2023-02-23T19:59:44.961869100}
+Email{sender='anita.scanu@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com; alberto.marino@prog3.com]| ID=27| subject='prova a due'| text='provaaaaaaaaaaaaa, si'| date=2023-02-23T20:00:58.982295900}
+Email{sender='alberto.marino@prog3.com'| receiver=receiver=[samuele.perrotta@prog3.com; anita.scanu@prog3.com]| ID=28| subject='discussione'| text='aaaaaaaaa'| date=2023-02-24T10:38:28.175243500}

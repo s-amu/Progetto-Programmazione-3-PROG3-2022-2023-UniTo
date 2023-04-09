@@ -1,0 +1,3 @@
+Anita,anita.scanu@prog3.com
+Alberto,alberto.marino@prog3.com
+Samuele,samuele.perrotta@prog3.com

@@ -1,0 +1,48 @@
+* {
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 1.25em;
+}
+
+#lbl_title {
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 25;
+}
+
+.button {
+    -fx-font-size: 1.35em;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-text-alignment: CENTER;
+    -fx-border-width: 0px;
+    -fx-border-color: transparent;
+    -fx-border-radius: 0.4em;
+    -fx-background-radius: 0.4em;
+    -fx-background-color: linear-gradient(to right, rgb(248, 115, 43), rgb(246, 33, 153));
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to right, rgba(248, 115, 43, 0.93), rgba(246, 33, 153, 0.87));
+}
+
+.button:pressed {
+    -fx-scale-y: 0.99;
+    -fx-scale-x: 0.99;
+}
+
+.text-field {
+    -fx-background-color: white;
+    -fx-border-color: #8d8d8d;
+    -fx-border-radius: 0.4em;
+    -fx-border-width: 1.2;
+    -fx-focus-traversable: false;
+}
+
+.text-field:focused {
+    -fx-border-color: linear-gradient(to right, #f8732b, #f62199);
+    -fx-border-width: 1.8;
+}
+
+.login_lblerr {
+    -fx-font-size: 8;
+    -fx-text-fill: red;
+}
